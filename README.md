@@ -10,26 +10,37 @@
 ---
 
 ### OUTPUT FOR LEGENDRE_STARTER
+<img width="1369" height="716" alt="Screenshot 2025-12-19 at 4 49 50 PM" src="https://github.com/user-attachments/assets/83bbb5f1-4e33-4bea-b7ac-aeaafaf77109" />
 
 ---
 
 ### OUTPUT FOR PIXELFIXER_STARTER
+<img width="1369" height="716" alt="Screenshot 2025-12-19 at 4 50 11 PM" src="https://github.com/user-attachments/assets/e9476ad8-8aca-4c43-a17d-96f4bfa78a9e" />
 
 ---
 
 ### OUTPUT FOR RECTIFY_STARTER
 
+<img width="1369" height="716" alt="Screenshot 2025-12-19 at 4 50 41 PM" src="https://github.com/user-attachments/assets/4dfc15c2-5b70-4f7c-9ad1-d97abb4e0ca3" />
+
+<img width="1369" height="716" alt="Screenshot 2025-12-19 at 4 51 18 PM" src="https://github.com/user-attachments/assets/fc554887-6e9a-4cfa-9f1b-c059c23c80e7" />
+
+<img width="1369" height="716" alt="Screenshot 2025-12-19 at 4 51 39 PM" src="https://github.com/user-attachments/assets/1cc62352-65a9-4f6d-a96d-d9341fe637bb" />
+
 ---
 
 ### OUTPUT FOR SQUARESPARE_STARTER
+<img width="1369" height="716" alt="Screenshot 2025-12-19 at 4 52 06 PM" src="https://github.com/user-attachments/assets/0345c573-5707-4b3f-a749-5930130b81a1" />
 
 ---
 
 ### OUTPUT FOR STRAPZ_STARTER
+<img width="1369" height="716" alt="Screenshot 2025-12-19 at 4 52 39 PM" src="https://github.com/user-attachments/assets/38ac3c97-6d44-4197-bfbb-7904e190f6b0" />
 
 ---
 
-### OUTPUT FOR PHYSUNITS_STARTER
+### OUTPUT FOR IT WILL END IN CHAOS
+<img width="1369" height="716" alt="Screenshot 2025-12-19 at 4 53 47 PM" src="https://github.com/user-attachments/assets/d76c2a29-8b29-41ca-9661-0dcb1eef7792" />
 
 ---
 
