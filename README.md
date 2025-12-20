@@ -17,6 +17,12 @@
 ### OUTPUT FOR PIXELFIXER_STARTER
 <img width="1369" height="716" alt="Screenshot 2025-12-19 at 4 50 11 PM" src="https://github.com/user-attachments/assets/e9476ad8-8aca-4c43-a17d-96f4bfa78a9e" />
 
+**CORRECTED FILES**  
+<img width="583" height="601" alt="Screenshot 2025-12-19 at 4 58 58 PM" src="https://github.com/user-attachments/assets/d19fa77c-e584-45d8-a6ff-f5d33cfbb9a2" />
+<img width="583" height="601" alt="Screenshot 2025-12-19 at 4 59 17 PM" src="https://github.com/user-attachments/assets/aadd9a64-16b4-4191-92c8-64e25f27caa5" />
+<img width="583" height="601" alt="Screenshot 2025-12-19 at 4 59 37 PM" src="https://github.com/user-attachments/assets/b8f1c945-38db-45cf-b511-6e3c03c4b960" />
+<img width="583" height="601" alt="Screenshot 2025-12-19 at 4 59 59 PM" src="https://github.com/user-attachments/assets/da7ae194-fae8-4d1f-8d3d-0a2eea464053" />
+
 ---
 
 ### OUTPUT FOR RECTIFY_STARTER
